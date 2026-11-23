@@ -1,0 +1,7 @@
+Meeting notes - Project Atlas, weekly sync
+- Backend API is 80% complete; authentication and payments remain.
+- Design team delivered the final mobile mockups; dev handoff is on Thursday.
+- QA found 12 bugs in the beta build, 3 are critical (login crash, cart reset, slow search).
+- Decision: launch date moves from 15 March to 29 March to fix critical bugs.
+- Action items: Priya fixes login crash, Arun optimises search, Meera updates the release plan.
+- Next sync: Monday 10 AM.
