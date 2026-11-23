@@ -1,0 +1,14 @@
+[
+  {"question": "How long is a Pomodoro work session?", "expected": ["25"], "source": "study_skills.pdf", "type": "answerable"},
+  {"question": "How long is the break after each Pomodoro?", "expected": ["5 minute", "5-minute", "five minute", "5 min"], "source": "study_skills.pdf", "type": "answerable"},
+  {"question": "How many hours of sleep help students remember more?", "expected": ["seven to nine", "7 to 9", "7-9"], "source": "study_skills.pdf", "type": "answerable"},
+  {"question": "What is the typical capacity of an onshore wind turbine?", "expected": ["2 to 3", "2-3", "two to three"], "source": "renewable_energy.pdf", "type": "answerable"},
+  {"question": "By how much has the cost of solar modules fallen since 2010?", "expected": ["90"], "source": "renewable_energy.pdf", "type": "answerable"},
+  {"question": "How long do lithium-ion batteries usually discharge?", "expected": ["two to four", "2 to 4", "2-4"], "source": "renewable_energy.pdf", "type": "answerable"},
+  {"question": "What is the common training and testing split for data?", "expected": ["80"], "source": "machine_learning_basics.pdf", "type": "answerable"},
+  {"question": "What is overfitting in machine learning?", "expected": ["memoris", "memoriz"], "source": "machine_learning_basics.pdf", "type": "answerable"},
+  {"question": "How can machine learning help renewable energy grids?", "expected": ["forecast"], "source": "renewable_energy.pdf + machine_learning_basics.pdf", "type": "answerable"},
+  {"question": "What are the three parts of the Cornell note-taking page?", "expected": ["cue"], "source": "study_skills.pdf", "type": "answerable"},
+  {"question": "What is the capital of Australia?", "expected": ["not found"], "source": "none", "type": "unanswerable"},
+  {"question": "Who won the 2018 FIFA World Cup?", "expected": ["not found"], "source": "none", "type": "unanswerable"}
+]
